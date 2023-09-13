@@ -2,7 +2,8 @@
     "$metadata": {
         "type": "KYCSchema",
         "uris": {
-            "jsonLdContext": "https://example.com/path/to/file/context.jsonld"
+            "jsonLdContext": "https://raw.githubusercontent.com/aleixaleix/W3CSchemas/main/KYC-2.3.jsonld",
+            "jsonSchema": "https://raw.githubusercontent.com/aleixaleix/W3CSchemas/main/KYC-2.3.json"
         },
         "version": "1.2"
     },
