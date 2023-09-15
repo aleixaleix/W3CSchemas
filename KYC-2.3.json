@@ -70,7 +70,10 @@
                     "type": "string"
                 }
             },
-            "required": [],
+            "required": [
+                "id",
+                "valid"
+            ],
             "type": "object"
         },
         "credentialSchema": {
