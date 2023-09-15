@@ -5,18 +5,19 @@
             "@version": 1.1,
             "id": "@id",
             "type": "@type",
-            "KYCSchema": {
+            "ProodOfValidKYC": {
+                "@id": "https://raw.githubusercontent.com/aleixaleix/W3CSchemas/main/KYC-2.3.jsonld#ProodOfValidKYC",
                 "@context": {
+                    "@version": 1.1,
                     "@propagate": true,
                     "@protected": true,
-                    "polygon-vocab": "urn:uuid:a98ab039-06c2-4b70-ab51-aefc1085e24c#",
+                    "vocab": "https://raw.githubusercontent.com/aleixaleix/W3CSchemas/main/KYC.md#",
                     "xsd": "http://www.w3.org/2001/XMLSchema#",
                     "valid": {
-                        "@id": "polygon-vocab:valid",
+                        "@id": "vocab:valid",
                         "@type": "xsd:boolean"
                     }
-                },
-                "@id": "urn:uuid:9dc5dbd6-df63-4d67-bbe1-1a61c2aed2b5"
+                }
             }
         }
     ]
