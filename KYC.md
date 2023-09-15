@@ -1,3 +1,3 @@
-# entryDate
+# valid
 
-Describes the date when a contributor joined the DAO
+Boolean that shows if KYC is valid or not
