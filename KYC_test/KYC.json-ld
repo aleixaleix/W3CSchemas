@@ -6,7 +6,7 @@
             "id": "@id",
             "type": "@type",
             "ProofOfValidKYC": {
-                "@id": "https://raw.githubusercontent.com/aleixaleix/W3CSchemas/main/KYC_test/KYC.jsonld#ProofOfValidKYC",
+                "@id": "https://raw.githubusercontent.com/aleixaleix/W3CSchemas/main/KYC_test/KYC.json-ld#ProofOfValidKYC",
                 "@context": {
                     "@version": 1.1,
                     "@propagate": true,
