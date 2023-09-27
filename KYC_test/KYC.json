@@ -3,7 +3,7 @@
     "type": "object",
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/aleixaleix/W3CSchemas/main/KYC_test/KYC.json-ld",
+            "jsonLdContext": "https://raw.githubusercontent.com/aleixaleix/W3CSchemas/main/KYC_test/KYC.jsonld",
             "jsonSchema": "https://raw.githubusercontent.com/aleixaleix/W3CSchemas/main/KYC_test/KYC.json"
         }
     },
