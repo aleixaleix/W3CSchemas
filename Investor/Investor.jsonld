@@ -1,0 +1,28 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "ProofOfInvestorLongevity": {
+                "@id": "https://raw.githubusercontent.com/aleixaleix/W3CSchemas/main/Investor/Investor.jsonld#ProofOfInvestorLongevity",
+                "@context": {
+                    "@version": 1.1,
+                    "@propagate": true,
+                    "@protected": true,
+                    "vocab": "https://raw.githubusercontent.com/aleixaleix/W3CSchemas/main/Investor/Investor.md#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "isInvestor": {
+                        "@id": "vocab:isInvestor",
+                        "@type": "xsd:boolean"
+                    },
+                    "startDate": {
+                        "@id": "vocab:startDate",
+                        "@type": "xsd:integer"
+                    }
+                }
+            }
+        }
+    ]
+}
